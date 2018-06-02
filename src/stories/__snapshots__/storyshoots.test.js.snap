@@ -23,6 +23,21 @@ exports[`Storyshots Button with text 1`] = `
 </button>
 `;
 
+exports[`Storyshots DummyToggler without toggle 1`] = `
+<button>
+  Toggle me!!
+</button>
+`;
+
+exports[`Storyshots Toggler with toggle 1`] = `
+<button
+  onClick={[Function]}
+>
+  Toggle me! 
+  ❌
+</button>
+`;
+
 exports[`Storyshots Welcome to Storybook 1`] = `
 <article
   className="css-1fqbdip"
