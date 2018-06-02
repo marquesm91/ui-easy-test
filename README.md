@@ -1,6 +1,6 @@
 ## UI Easy Test
 
-Aprendendo a escrever testes utilizando StoryShoots e o Enzyme a partir de uma aplicação criada com `create-react-app`.
+Aprendendo a escrever testes utilizando StoryShots e o Enzyme a partir de uma aplicação criada com `create-react-app`.
 
 * [Storybook](https://storybook.js.org/)
 * [StoryShoots](https://storybook.js.org/testing/structural-testing/)
