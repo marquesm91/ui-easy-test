@@ -1,9 +1,21 @@
-#UI Easy Test
+## UI Easy Test
 
-Repositório destinado para demonstrar como montar um estudo completo de testes de UI e UX utilizando:
+Aprendendo a escrever testes utilizando StoryShoots e o Enzyme a partir de uma aplicação criada com `create-react-app`.
 
-* Storybook
-* Jest
-* React
+* [Storybook](https://storybook.js.org/)
+* [StoryShoots](https://storybook.js.org/testing/structural-testing/)
+* Storybook [specs addon](https://github.com/mthuret/storybook-addon-specifications)
+* [Jest](https://github.com/facebook/jest)
+* [Enzyme](https://github.com/airbnb/enzyme)
+* [Create React App](https://github.com/facebook/create-react-app)
 
-Os testes serão inicialmente simples e vão sendo incrementados a medida que os estudos forem avançando em como utilizar de maneira inteligente o Storybook e entender quais são os testes de casos mais importantes para testar em uma interface
+### Testes
+
+* Testes com Enzyme: Testes destinados para observar o comportamento dos componentes a partir de algum evento externo. Foi criado dois testes para testar a interação de cliques em um botão
+* Teste com StoryShoots: Testes destinados para que seja possível identificar alterações visuais de uma maneira fácil. Testes com alteraçõa de estilo e algum texto do botão.
+
+### O que pode ser melhorado
+
+* A estrutura das pastas deve ser melhorada para que seja possível criar mais testes separados por tipo.
+* Escrever mais componentes para testes com maior interação.
+* Realizar testes mais robustos.
