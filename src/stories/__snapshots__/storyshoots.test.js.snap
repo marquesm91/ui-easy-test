@@ -19,7 +19,7 @@ exports[`Storyshots Button with text 1`] = `
   className="css-1yjiefr"
   onClick={[Function]}
 >
-  Click
+  Hello Button
 </button>
 `;
 
